@@ -9,6 +9,14 @@
       "size": 1024000,
       "category": "animations",
       "description": "Animal chat animated GIF"
+    },
+    {
+      "filename": "language-and-roles.gif",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-embeds/main/language-and-roles.gif",
+      "type": "image/gif",
+      "size": 1024000,
+      "category": "discord",
+      "description": "6b6t Discord #language-and-roles channel GIF"
     }
   ]
 }
