@@ -17,6 +17,14 @@
       "size": 1024000,
       "category": "discord",
       "description": "6b6t Discord #language-and-roles channel GIF"
+    },
+    {
+      "filename": "legend-color.gif",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-embeds/main/legend-color.gif",
+      "type": "image/gif",
+      "size": 1024000,
+      "category": "discord",
+      "description": "6b6t Discord #legend-color channel GIF"
     }
   ]
 }
